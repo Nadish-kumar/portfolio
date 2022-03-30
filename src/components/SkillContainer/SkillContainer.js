@@ -27,7 +27,7 @@ const SkillContainer = () => {
                    </div>
                </div>
                <div className='SkillContainer__SkillSet'>
-                   <h5>AWS</h5>
+                   <h5>Material UI</h5>
                    <div className='SkillContainer__slider SkillContainer__slider3 '>
                    <LinearProgress variant="determinate" value={50} />
                    </div>
@@ -39,7 +39,7 @@ const SkillContainer = () => {
                    </div>
                </div>
                <div className='SkillContainer__SkillSet'>
-                   <h5>WordPress</h5>
+                   <h5>Bootstrap</h5>
                    <div className='SkillContainer__slider SkillContainer__slider5 '>
                    <LinearProgress variant="determinate" value={40} />
                    </div>
