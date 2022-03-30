@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+.SkillContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0;
+}
+.SkillContainer__text{
+    color: white;   
+    flex: 0.6;
+    text-align: left;
+    margin-bottom: 20px;
+    max-width: 500px;
+
+}
+.SkillContainer__text > h2 {
+   font-size: 30px;
+}
+.SkillContainer__image{
+   flex: 0.4;
+   align-items: center;
+   margin-right: 100px;
+}
+.SkillContainer__image > img{
+ width: 600px;
+ border-radius: 3px;
+ object-fit: contain;
+}
+.SkillContainer__text > h5{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 300;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+ 
+.SkillContainer__slider > .css-eglki6-MuiLinearProgress-root{
+ background-color: rgb(88, 88, 88);
+}
+.css-5xe99f-MuiLinearProgress-bar1{
+    background-color: greenyellow !important
+}
