@@ -25,10 +25,10 @@ const ProjectContainer = () => {
             link : "https://melodious-dragon-c173b1.netlify.app/"
         },
         {
-            image: "https://images.indianexpress.com/2021/06/labrador-retriever-1210559_1920.jpg",
-            title : "Artificial Intelligence ",
-            desp : "Run machine learning models in your Android, iOS, and Web apps",
-            link :"https://mui.com/components/progress/#main-content"
+            image: "https://firebasestorage.googleapis.com/v0/b/remember-project-498c3.appspot.com/o/profile%2FScreenshot%20(47).png?alt=media&token=01c5bee3-5450-4af1-852a-cbeec57b25af",
+            title : "Url Shortner ",
+            desp : "It's like a bitly kind of website. longer url is converted into shorter url",
+            link :"https://verdant-dolphin-7e7550.netlify.app"
         },
     
   
