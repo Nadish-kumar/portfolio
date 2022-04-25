@@ -18,18 +18,18 @@ const Contact = () => {
                 </p>
            
             <div className='contact__icons'>
-                <a href='https://www.facebook.com/profile.php?id=100008011757159'>
+                <a href='https://www.facebook.com/profile.php?id=100008011757159' target="_blank">
                    <IconButton>
                        <Facebook />
                        </IconButton>
                 </a>
-                <a href='https://github.com/Nadish-kumar'>
+                <a href='https://github.com/Nadish-kumar' target="_blank">
                 <IconButton>
                      <GitHub />
                      </IconButton>
                 </a>
            
-                <a href='https://www.linkedin.com/in/nadish-kumar-19b53322a/'>
+                <a href='https://www.linkedin.com/in/nadish-kumar-19b53322a/' target="_blank">
                 <IconButton>
                      <LinkedIn />
                 </IconButton>
