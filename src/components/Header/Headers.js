@@ -30,7 +30,7 @@ const Headers = () => {
                     Contact
                   </h4>
                   </Link>
-                  <h4 className='header__rightButton'>Join With Me</h4>
+                  <h4 className='header__rightButton'>Contact Me</h4>
                   </div>     
         </div>
         
