@@ -41,7 +41,7 @@ const ProjectContainer = () => {
         <Element className='ProjectContainer' id='project'>
         <h1>Projects</h1>
         <p>
-            Here somae projects which I done for making people live easier.
+            Here some projects which I done for making people live easier.
         </p>
         <div className='ProjectContainer__projects'>
            {
