@@ -19,6 +19,7 @@ const Projects = (props) => {
                             <h4>{props.name.title}</h4>
                             <p>{props.name.desp}</p>
                             <a href={props.name.github} target="_blank"><GitHubIcon /></a>
+                        <div>{props.name.tech} </div>
                         </div>
                     ) :
                         (

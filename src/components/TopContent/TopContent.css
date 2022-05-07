@@ -3,6 +3,7 @@
 .topContent {
     color: white;
     position: relative;
+    z-index: 200px
 }
 
 .topContent__container {
@@ -10,7 +11,7 @@
     top: 300px;
     right: 150px;
     text-align: left;
-    z-index: 1;
+    z-index: 20;
 }
 
 .topContent__container>p {
