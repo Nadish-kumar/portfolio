@@ -20,7 +20,7 @@ const ProjectContainer = () => {
             desp : "Add your memories with a short description and store your memorable image",
             link : "https://verdant-salmiakki-b2c083.netlify.app/",
             github : "https://github.com/Nadish-kumar/dairy-frontend",
-            tech : "React js, Bootstrap, MongoDb, Node js, Firebase"
+            tech : "React js, Bootstrap, MongoDb, Node, Firebase"
         },
         {
             image: "https://firebasestorage.googleapis.com/v0/b/remember-project-498c3.appspot.com/o/profile%2FScreenshot%20(43).png?alt=media&token=9bc72fd8-dae4-4736-8472-5976fe83caf0",
@@ -36,7 +36,7 @@ const ProjectContainer = () => {
             desp : "Login with your credential and booked your Car & Post your own car",
             link :"https://darling-parfait-9c96c0.netlify.app",
             github : "https://github.com/Nadish-kumar/car-rent-project",
-            tech : "React js, Bootstrap, MongoDb, Node js, Firebase"
+            tech : "React js, Bootstrap, MongoDb, Node, Firebase"
         },
     
   
