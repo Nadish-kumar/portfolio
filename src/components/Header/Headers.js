@@ -11,7 +11,7 @@ const Headers = () => {
               <div className='header__right'>
                   <Link to="about" smooth={true} duration={500}>
                   <h4>
-                      About Us
+                      About 
                   </h4>
                   </Link>
                   <Link to="skills" smooth={true} duration={500}>
@@ -30,9 +30,7 @@ const Headers = () => {
                     Contact
                   </h4>
                   </Link>
-                  <a href='https://drive.google.com/file/d/1-S5DCzKTZybVZpsv323fqQfRqlWHus9a/view?usp=sharing' target="_blank">
-                  <h4 className='header__rightButton'>Contact Me</h4>
-                  </a>
+                 
                   </div>     
         </div>
         
